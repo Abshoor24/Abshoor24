@@ -18,7 +18,7 @@ jobs:
           SHOW_TITLE: true
           SHOW_TOTAL: true
           SHOW_TIME: true
-          TIME_RANGE: last_7_days
+          TIME_RANGE: all_time
           LANG_COUNT: 5
           SECTION_NAME: waka
           COMMIT_MESSAGE: "📈 update wakatime stats"
