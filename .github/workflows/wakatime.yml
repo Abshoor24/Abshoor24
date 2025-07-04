@@ -2,23 +2,19 @@ name: WakaTime Stats
 
 on:
   schedule:
-    - cron: '0 12 * * *'  # Setiap hari jam 12:00 UTC (19.00 WIB)
-  workflow_dispatch:       # Bisa dijalankan manual
+    - cron: "0 * * * *" # setiap 1 jam update otomatis
+  workflow_dispatch: # agar bisa manual run
 
 jobs:
   update-readme:
-    name: Update waka stats
+    name: Update WakaTime stats
     runs-on: ubuntu-latest
-
     steps:
-      - name: Update wakatime stats in README
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          SHOW_TOTAL: true
-          SHOW_TIME: true
           TIME_RANGE: all_time
-          LANG_COUNT: 5
-          SECTION_NAME: waka
-          COMMIT_MESSAGE: "📈 update wakatime stats"
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
