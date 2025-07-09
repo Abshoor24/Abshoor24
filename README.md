@@ -1,7 +1,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-PHP & JavaScript Enjoyer
+From: 15 October 2023 - To: 08 July 2025
 
 Total Time: 229 hrs 56 mins
 
