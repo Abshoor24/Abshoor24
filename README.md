@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 
-```txt
+PHP & JAVASCRIPT ENJOYER
 
 Total Time: 229 hrs 56 mins
 
