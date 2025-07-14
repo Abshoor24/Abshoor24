@@ -1,6 +1,9 @@
 <!--START_SECTION:waka-->
 
-PHP & JAVASCRIPT ENJOYER
+```txt
+From: 15 October 2023 - To: 13 July 2025
+
+Total Time: 231 hrs 12 mins
 
 PHP              55 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   23.61 %
 HTML             54 hrs 51 mins  ██████░░░░░░░░░░░░░░░░░░░   23.44 %
