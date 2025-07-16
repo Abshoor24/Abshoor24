@@ -1,9 +1,7 @@
 📊 WakaTime Stats
 
 <!--START_SECTION:waka-->
-
-PHP & JAVASCRIPT ENJOYER
-
+``` PHP & JAVASCRIPT ENJOYER
 From: 15 October 2023 - To: 15 July 2025
 
 Total Time: 231 hrs 12 mins
