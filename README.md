@@ -1,9 +1,7 @@
-📊 WakaTime Stats
-
+PHP & JAVASCRIPT ENJOYER
 <!--START_SECTION:waka-->
 ``` 
-PHP & JAVASCRIPT ENJOYER
-
+📊 WakaTime Stats
 Total Time: 231 hrs 12 mins
 
 PHP              55 hrs 15 mins  ██████░░░░░░░░░░░░░░░░░░░   23.61 %
