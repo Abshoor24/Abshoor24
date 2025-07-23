@@ -2,8 +2,6 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 October 2023 - To: 21 July 2025
-sadasdasd
 Total Time: 236 hrs 59 mins
 
 PHP              55 hrs 15 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
