@@ -26,7 +26,7 @@
 
 ## 📊 Statistik GitHub 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abshoor24&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abshoor24&theme=tokyonight)  
+
 
 ---
 
