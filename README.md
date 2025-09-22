@@ -1,34 +1,38 @@
-<!--START_SECTION:waka-->
+# Halo 👋, saya [Nama Kamu]
 
-```txt
-From: 15 October 2023 - To: 20 September 2025
+Saya seorang pelajar/mahasiswa yang tertarik dengan **Web Development & Software Engineering**.  
+Saat ini saya sedang belajar **React.js, Express.js, dan PostgreSQL** untuk membangun aplikasi fullstack.  
 
-Total Time: 282 hrs 1 min
+---
 
-JavaScript       58 hrs 28 mins  █████░░░░░░░░░░░░░░░░░░░░   20.52 %
-HTML             55 hrs 34 mins  █████░░░░░░░░░░░░░░░░░░░░   19.50 %
-PHP              55 hrs 15 mins  █████░░░░░░░░░░░░░░░░░░░░   19.40 %
-Blade Template   37 hrs 45 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.25 %
-TypeScript       27 hrs 45 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
-CSS              23 hrs 30 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-Java             11 hrs 56 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Bash             5 hrs 18 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON             3 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-Other            2 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
-C#               1 hr 32 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Git Config       22 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-Markdown         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-Apache Config    6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-YAML             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-SCSS             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-TSConfig         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-XML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Text             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-C                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-SQL              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Git              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Image (svg)      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
+## 🚀 Tech Stack
+- **Frontend:** React.js, Next.js, Tailwind CSS , Bootstrap v5, 
+- **Backend:** Express.js, Laravel  
+- **Database:** PostgreSQL, MySQL, Supabase  
+- **Tools:** Git, GitHub, VS Code, Postman  
 
-<!--END_SECTION:waka-->
+---
+
+## 📌 Project Unggulan
+- [💰 Manajemen Kas Kelas](https://github.com/username/repo-kas)  
+  Aplikasi web untuk manajemen keuangan kelas (React + Express + Supabase).  
+- [✅ To-Do List Interaktif](https://github.com/username/repo-todolist)  
+  Aplikasi To-Do List dengan filter, drag & drop, dan animasi.  
+
+---
+
+## 📊 Statistik GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Hubungi Saya
+- 📧 Email: kamu@email.com  
+- 💼 LinkedIn: [linkedin.com/in/username](https://linkedin.com/in/username)  
+- 🌐 Portfolio: [username.vercel.app](https://username.vercel.app)  
+
+---
+
+✨ *"Code. Learn. Share. Inspire."*
