@@ -31,8 +31,9 @@ Hi, I'm Muhammad Nurul Abshoor
 |---------|-------------|------------|
 | [🛒 Kasir Project](https://github.com/Abshoor24/Kasir) | A cashier application to manage products and sales. | ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat) ![Livewire](https://img.shields.io/badge/-Livewire-4E56A6?logo=laravel&logoColor=fff&style=flat) |
 | [📊 Kas Project](https://github.com/Abshoor24/Kas) | A financial management project for tracking income and expenses. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff&style=flat) |
-| [💰 MyDompet (Class Cash Management)](https://github.com/Abshoor24/MyDompet) | A web app for managing classroom finances. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff&style=flat) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=fff&style=flat) |
+| [💰 MyDompet ](https://github.com/Abshoor24/MyDompet) | A web app for managing your finances. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat) ![IndexedDB](https://img.shields.io/badge/-IndexedDB-0066FF?logo=google-chrome&logoColor=fff&style=flat) |
 | [✅ Interactive To-Do List](https://github.com/Abshoor24/To-do-list) | To-Do List app with filters, drag & drop, and animations. | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat) |
+
 
 ---
 
