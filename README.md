@@ -1,7 +1,7 @@
-# Halo 👋, saya Muhammad Nurul Abshoor  
+Hi, I'm Muhammad Nurul Abshoor
 
-💻 Saya seorang **pelajar SMK Telkom Purwokerto** yang tertarik pada **Web Development & Software Engineering**.  
-🚀 Saat ini fokus belajar **React.js, Next.js, Express.js, Laravel, PostgreSQL, dan Supabase** untuk membangun aplikasi fullstack.  
+💻 I'm a student at SMK Telkom Purwokerto passionate about Web Development & Software Engineering.
+🚀 Currently focusing on learning React.js, Next.js, Express.js, Laravel, PostgreSQL, and Supabase to build fullstack applications.
 
 ---
 
@@ -25,26 +25,30 @@
 
 ---
 
-## 📌 Project Unggulan
-- [💰 Manajemen Kas Kelas](https://github.com/USERNAME/repo-kas)  
-  Aplikasi web untuk manajemen keuangan kelas (React + Express + Supabase).  
-- [✅ To-Do List Interaktif](https://github.com/USERNAME/repo-todolist)  
-  Aplikasi To-Do List dengan filter, drag & drop, dan animasi.  
+📌 Featured Projects
+
+💰 Class Cash Management
+
+A web app for managing classroom finances (React + Express + Supabase).
+
+✅ Interactive To-Do List
+
+To-Do List app with filters, drag & drop, and animations.
 
 ---
 
-## 📊 Statistik GitHub 
+## 📊 Statistic GitHub 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abshoor24&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight)
 
 
 ---
 
-## ⏱️ Aktivitas Coding
+## ⏱️ Coding Activity
 ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Abshoor24&theme=tokyonight)
 
 ---
 
-## 📫 Hubungi Saya
+## 📫 Contact me
 - 📧 Email: muhammadnuruabshoor24@email.com   
 
 ---
