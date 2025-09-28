@@ -28,8 +28,7 @@ Currently focusing on learning React.js, Express.js, Laravel, and Supabase to bu
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge)
 
 ### **Database Tools**
-![PgAdmin](https://img.shields.io/badge/-PgAdmin-336791?logo=postgresql&logoColor=fff&style=for-the-badge)  
-![TablePlus](https://img.shields.io/badge/-TablePlus-FFB300?logo=tableplus&logoColor=fff&style=for-the-badge)  
+![PgAdmin](https://img.shields.io/badge/-PgAdmin-336791?logo=postgresql&logoColor=fff&style=for-the-badge)  ![TablePlus](https://img.shields.io/badge/-TablePlus-FFB300?logo=tableplus&logoColor=fff&style=for-the-badge)  
 
 ### Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff&style=for-the-badge)
