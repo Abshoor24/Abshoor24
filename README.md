@@ -63,11 +63,6 @@ Currently focusing on learning React.js, Express.js, Laravel, and Supabase to bu
 
 ---
 
-## ⏱️ Coding Activity
-![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Abshoor24&theme=tokyonight)
-
----
-
 ## 📫 Contact me
 - 📧 Email: muhammadnuruabshoor24@email.com   
 
