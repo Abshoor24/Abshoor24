@@ -45,9 +45,6 @@ Currently focusing on learning React.js, Express.js, Laravel, and Supabase to bu
 
 ---
 
-
-
-## 📊 Statistic GitHub 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abshoor24&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight)
 
 
