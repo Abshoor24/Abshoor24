@@ -1,10 +1,16 @@
-Hi, I'm Muhammad Nurul Abshoor
+<h1 align="center">
+  Hi, I'm Muhammad Nurul Abshoor 
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+</h1>
 
-💻 I'm a student at SMK Telkom Purwokerto passionate about Web Development & Software Engineering.
-
-Currently focusing on learning React.js, Express.js, Laravel, and Supabase to build fullstack applications.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=36BCF7&center=true&vCenter=true&width=500&lines=💻+Student+at+SMK+Telkom+Purwokerto;🌐+Web+Development+Enthusiast;⚙️+Web+Development+and+Artificial+Intelegence;🚀+Fullstack+Application+Builder" alt="Typing SVG" />
+</p>
 
 ---
+
+💻 I'm a student at SMK Telkom Purwokerto passionate about **Web Development & Artificial Intelegent**.  
+Currently focusing on learning **React.js**, **Express.js**, **Laravel**, and **Supabase** to build **fullstack applications**.
 
 ## Tech Stack
 
