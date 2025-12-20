@@ -9,7 +9,7 @@
 
 ---
 
-I'm a student at SMK Telkom Purwokerto passionate about **Web Development & Artificial Intelegent**.  
+I'm a student passionate about **Web Development & Web3**.  
 Currently focusing on learning **React.js**, **Express.js**, **Laravel**, and **Supabase** to build **fullstack applications**.
 
 ## Tech Stack
