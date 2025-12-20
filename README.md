@@ -10,7 +10,7 @@
 ---
 
 I'm a student passionate about **Web Development & Web3**.  
-Currently focusing on learning **React.js**, **Express.js**, **Laravel**, and **Supabase** to build **fullstack applications**.
+Currently focusing on learning **Next.js**, **Express.js**, **Laravel**, and **Supabase** to build **fullstack applications**.
 
 ## Tech Stack
 
