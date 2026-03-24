@@ -11,6 +11,7 @@
 
 I'm a student passionate about **Web Development & Web3**.  
 Currently focusing on learning **Next.js**, **Express.js**, **Laravel**, and **Supabase** to build **fullstack applications**.
+I am a lazy people and want to be rich
 
 ## Tech Stack
 
