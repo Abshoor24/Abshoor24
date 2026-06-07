@@ -50,7 +50,18 @@ I am a lazy people and want to be rich
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abshoor24&show_icons=true&theme=tokyonight)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight)
+<p align="center">
+  <!-- <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abshoor24&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="180"
+  /> -->
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 
 
 ---
