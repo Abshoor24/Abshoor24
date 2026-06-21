@@ -56,11 +56,8 @@ I am a lazy people and want to be rich
     alt="GitHub Stats"
     height="180"
   /> -->
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight"
-    alt="Top Languages"
-    height="180"
-  />
+  <!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abshoor24&theme=tokyonight"/>
 </p>
 
 
