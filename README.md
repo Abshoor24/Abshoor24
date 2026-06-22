@@ -57,7 +57,10 @@ I am a lazy people and want to be rich
     height="180"
   /> -->
   <!-- WakaTime Stats -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Abshoor24&theme=tokyonight"/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abshoor24&layout=compact&theme=tokyonight&hide=blade,html,css"
+  alt="Top Languages"
+/>
 </p>
 
 
