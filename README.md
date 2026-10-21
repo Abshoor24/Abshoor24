@@ -9,7 +9,6 @@
 
 I'm a student passionate about **Web Development** and I like use AI for fast and structured Development.  
 Currently focusing on learning **Next.js**, **Express.js**, **Laravel**, and **Supabase** to build **fullstack applications**.
-I am a lazy people and want to be rich
 
 ## Tech Stack
 
